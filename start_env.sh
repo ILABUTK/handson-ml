@@ -1,3 +1,6 @@
-#!/bin/bash
+#!/bin/sh
 
-./env/bin/activate
+cd $ML_PATH
+source env/bin/activate
+
+#should show (env)(base)
