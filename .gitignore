@@ -16,3 +16,6 @@ datasets/spam
 datasets/words
 
 env/*
+
+*.jar
+chromium/ 
