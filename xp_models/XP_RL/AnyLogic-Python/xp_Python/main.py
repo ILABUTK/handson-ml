@@ -170,7 +170,7 @@ def train():
     )
 
     # parameters
-    n = 300 #10000
+    n = 1000 #10000
     d = 8
     e = 0.1
     a = 0.1
@@ -204,8 +204,8 @@ def train():
 
 def main():
     """main"""
-    train()
-    # simulation()
+    # train()
+    simulation()
 
     return
 
